@@ -18,5 +18,5 @@ steps:
 - script: |
     npm install
     npm run webdriver:update
-    npm run fullRegressionTEST
+    npm run protractorTEST
   displayName: 'Run E2E Tests'
