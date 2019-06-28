@@ -21,7 +21,7 @@ exports.config = {
                 // 'incognito',
                 // 'disable-extensions',
                 // 'show-fps-counter=true'
-                //'--headless'
+                '--headless'
                 //'--disable-gpu'
             ]
         },
