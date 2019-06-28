@@ -19,5 +19,4 @@ steps:
     npm install
     npm run webdriver:update
     npm run fullRegressionTEST
-    npm run report
   displayName: 'Run E2E Tests'
