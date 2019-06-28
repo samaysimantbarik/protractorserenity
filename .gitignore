@@ -1,0 +1,7 @@
+/target/
+/node_modules/
+/.settings/
+/.vs/
+debug.log
+.project
+.tern-project
